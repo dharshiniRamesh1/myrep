@@ -1,0 +1,9 @@
+div{
+    width: 100px;
+    height:100px ;
+    background-color: blue;
+    border: 4px dotted  red;
+    padding: 10% 20% 40% 10%;
+    margin: 5%;
+    
+}
